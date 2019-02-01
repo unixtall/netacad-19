@@ -9,7 +9,7 @@ This repository is for the course programming network taught by PUE - Becas DIGI
 * Guardar el script y ejecutarlo (corregir errores, si hubiese) 
 * Subir el archivo a vuestra cuenta de GitHub 
 
-# Trabajar con listas y diccionarios y variables
+## Trabajar con listas y diccionarios y variables
 * Crear un archivo llamado 02_list-dict.py 
 * Crear una lista que contenga varios strings.
 * Crear una lista que contenga varios integers. 
